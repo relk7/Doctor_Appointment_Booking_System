@@ -1,4 +1,5 @@
-#Sequence Diagram — Appointment Booking
+# Sequence Diagram — Appointment Booking
+
 ```mermaid
 sequenceDiagram
     actor Patient
@@ -28,4 +29,4 @@ sequenceDiagram
     Note over System,Appointment: Decision is Accept or Decline
     Appointment-->>System: updated status
     System-->>Patient: notify appointment outcome
-    ```
+```
