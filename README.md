@@ -7,8 +7,7 @@ It was built for the Advanced Software Engineering team assignment (2026 / 2027)
 
 | Student ID | Full name | Assigned task | Branch |
 |------------|-----------|---------------|--------|
-| 20240189 | Rahma Ahmed Ahmed | Requirements & Use Cases | Rahma |
-| 20240189 | Rahma Ahmed Ahmed | Class Diagram | Rahma_class_diagram |
+| 20240189 | Rahma Ahmed Ahmed | Use Cases & Class Diagram | Rahma & Rahma_class_diagram |
 | 2024023 | Roaa Abdelfatah Salah | Sequence Diagram | Roaa_Sequence_diagram |
 | 20240571 | Maryam Ahmed Adel | Implementation | Mayram_Implementation |
 
