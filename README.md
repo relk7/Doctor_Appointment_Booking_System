@@ -5,11 +5,11 @@ It was built for the Advanced Software Engineering team assignment (2026 / 2027)
 
 ## Team
 
-| Student ID | Full name | Assigned task | Branch |
-|------------|-----------|---------------|--------|
-| 20240189 | Rahma Ahmed Ahmed | Use Cases & Class Diagram | Rahma & Rahma_class_diagram |
-| 2024023 | Roaa Abdelfatah Salah | Sequence Diagram | Roaa_Sequence_diagram |
-| 20240571 | Maryam Ahmed Adel | Implementation | Mayram_Implementation |
+| Student ID | Full name | Assigned task | Branch | PR Link
+|------------|-----------|---------------|--------|--------|
+| 20240189 | Rahma Ahmed Ahmed | Use Cases & Class Diagram | Rahma & Rahma_class_diagram |https://github.com/relk7/Doctor_Appointment_Booking_System/pull/1 & https://github.com/relk7/Doctor_Appointment_Booking_System/pull/2 |
+| 2024023 | Roaa Abdelfatah Salah | Sequence Diagram | Roaa_Sequence_diagram |https://github.com/relk7/Doctor_Appointment_Booking_System/pull/3|
+| 20240571 | Maryam Ahmed Adel | Implementation | Mayram_Implementation | https://github.com/relk7/Doctor_Appointment_Booking_System/pull/4|
 
 ## Project files
 
